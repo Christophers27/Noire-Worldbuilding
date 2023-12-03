@@ -18,7 +18,7 @@
 
 - The Dreamer's college experience was unpleasant, leading them to drop out.
 - They felt that they chose the wrong major, but it was too late to change.
-- They looked up to some authority figure, possibly an advisor, who tried to help them as best they could, but could not help The Dreamer change their major. 
+- They looked up to some authority figure, possibly an advisor, who tried to help them as best they could, but could not help The Dreamer change their major.
 - They felt disappointed and possibly betrayed by this authority figure, although it may be undeserved.
   - In the game, The Dreamer will meet a Shard of this figure, which is The Dreamer's own perception of them, and eventually reconcile with them.
 
