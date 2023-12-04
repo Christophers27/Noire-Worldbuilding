@@ -7,3 +7,4 @@ The Schoolyard Exterior is the final outdoor section of the first chapter. A fie
 The Classroom is the first bossfight arena. When Nilo first walks in, the room is found in diusorder, with desks swept to the sides of the room.
 
 # Gallery
+
