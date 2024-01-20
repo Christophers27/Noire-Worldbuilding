@@ -9,6 +9,7 @@
   - [Characters](#characters)
     - [Nilo](#nilo)
     - [The Fellow Dreamer](#the-fellow-dreamer)
+  - [Setting](#setting)
   - [Gameplay](#gameplay)
     - [Lucidity Mechanic](#lucidity-mechanic)
   - [Art](#art)
@@ -50,6 +51,16 @@ Their appearance and gender are purposefully kept vague, so anyone can relate to
 The Fellow Dreamer is a energetic and cheerful girl, the only friend of Nilo in their early childhood. She has grand dreams of becoming an adventurer and exploring unknown lands, and is very passionate about it. She is also very caring and tries to help Nilo overcome their anxiety, though she is not very good at it.
 
 At a young age, she discovered that she could stay lucid in her dreams, and discovered the Dream World. So far, no one else she knew could do the same, so she kept it a secret to everyone but Nilo.
+
+## Setting
+
+The game takes place in the Dream World, a mysterious, surreal world, where everyone goes when they dream. A Dreamer is someone who can stay lucid in their dreams, and explore the Dream World.
+
+The Dream World is divided into layers, with the First Layer being where everyone enters when they dream. The First Layer is made up of islands, each representing the personal unconscious of a person, and the sea of clouds they float on represents the collective unconscious. The lower layers are the collective unconscious, where creatures born from imagination and minds of all who have ever slept reside.
+
+The Dream World is inspired by the theory of Carl Jung's ['Collective Unconscious'](https://en.wikipedia.org/wiki/Collective_unconscious), which is the idea that all humans share a collective unconscious that surrounds the unconscious mind of each individual, distinct from the personal unconscious, another psychological concept. The Dream World is the manifestation of the unconscious, with the island in the First Layer being the personal unconscious, and the lower layers being the sea that surrounds them, the collective unconscious. Landscapes and creatures in the Dream World are inspired by the 'instincts' and 'archetypes' that Jung brings up in his theory.
+
+As Nilo goes deeper into the Dream World, what they encounter will become less and less familiar and specific to them, and more fantastical and abstract, as they enter the collective unconscious. This allows the game to explore Nilo's personal story, while not being limited to it, and also allows for more creative and surreal environments and creatures.
 
 ## Gameplay
 
