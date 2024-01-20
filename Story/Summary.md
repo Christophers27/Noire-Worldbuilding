@@ -2,7 +2,7 @@
 
 ## Plot
 
-Main character is known as The Dreamer. They are currently a young adult with low self-confidence and a many regrets in life. They made friends with the Fellow Dreamer as a child, who they looked up to.
+Main character is known as The Dreamer. They are currently a young adult with low self-confidence and many regrets in life. They made friends with the Fellow Dreamer as a child, who they looked up to.
 
 The Fellow Dreamer has a (as far as she knows) unique ability to be lucid in the Dream World and travel wherever she pleases (as opposed to most people, who just stay in the First Layer and experience dreams when they sleep). She is adventurous and reckless, in part due to her seemingly unique ability. She is also very confident and self-assured, and is a good friend to The Dreamer.
 

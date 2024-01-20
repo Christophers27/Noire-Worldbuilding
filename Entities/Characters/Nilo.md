@@ -1,8 +1,8 @@
-# The Dreamer
+# Nilo
 
 ## Introduction
 
-- The main character, referred to as "The Dreamer", has a purposefully vague gender and appearance, so any player can relate to them.
+- The main character, referred to as Nilo, has a purposefully vague gender and appearance, so any player can relate to them.
 - They initially possess a hesitant, melancholic personality, and many regrets about their past.
 - Their parents are likely distant or absent, and they have no siblings.
 

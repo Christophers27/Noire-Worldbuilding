@@ -1,6 +1,8 @@
-# The Dreamer
+# The Fellow Dreamer
 
 ## Introduction
+
+The closest friend of Nilo, who has 
 
 ## History
 
