@@ -10,6 +10,7 @@
     - [Nilo](#nilo)
     - [The Fellow Dreamer](#the-fellow-dreamer)
   - [Gameplay](#gameplay)
+    - [Lucidity Mechanic](#lucidity-mechanic)
   - [Art](#art)
   - [Sound and Music](#sound-and-music)
   - [UI and Controls](#ui-and-controls)
@@ -53,6 +54,10 @@ At a young age, she discovered that she could stay lucid in her dreams, and disc
 ## Gameplay
 
 The gameplay of Noire is similar to the indie game Hades, with a fixed camera angle, attacking with a melee weapon, and dashing to avoid attacks.
+
+### Lucidity Mechanic
+
+A core mechanic of the game is the Lucidity mechanic. Nilo has three health bars, or states, which represent how lucid they are. With one health bar, they are in a Lucid state, and with three, they are in a Deep Dreaming state. In different states, Nilo has different core abilities, and the enemies may have different abilities and behaviors, making the game more or less difficult.
 
 ## Art
 
