@@ -5,7 +5,7 @@
 - Nilo, the player character, wakes up in the Bedrock Plains, in the First Layer of the Dream World.
 - They find a note, left by the Fellow Dreamer, telling them where they are, and that she is stuck in the lower layers
   - Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
-- Exploring the Bedrock Plains and interacting with the items reveals some background about the Fellwo Dreamer and what happened to her.
+- Exploring the Bedrock Plains and interacting with the items reveals some background about the Fellow Dreamer and what happened to her.
   - The tone of the text is somewhat melancholic, as Nilo has many unresolved regrets and issues from the past.
   - The messy room reflects Nilo's state of mind.
 - Nilo finds a door, which leads to the next area, Solura Valley.
@@ -15,6 +15,7 @@
 ### Solura Path
 
 - Nilo finds themself at the top of a cobblestone path, leading down into a valley.
+- Halfway down the path, Nilo meets a mysterious figure, who says that 'you might need this if you plan to keep going'. They give Nilo a shadowy sword, some advice, and dashes away. 
 - Following the path, they first encounter the first enemy type, the Lanternfly.
   - This is the combat tutorial.
   - Nilo is afraid of bugs, but begins to overcome their fear.

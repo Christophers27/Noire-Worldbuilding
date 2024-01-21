@@ -9,6 +9,9 @@
   - [Characters](#characters)
     - [Nilo](#nilo)
     - [The Fellow Dreamer](#the-fellow-dreamer)
+  - [Enemies](#enemies)
+    - [Lantern Fly](#lantern-fly)
+    - [Eyeball](#eyeball)
   - [Setting](#setting)
   - [Gameplay](#gameplay)
     - [Lucidity Mechanic](#lucidity-mechanic)
@@ -51,6 +54,28 @@ Their appearance and gender are purposefully kept vague, so anyone can relate to
 The Fellow Dreamer is a energetic and cheerful girl, the only friend of Nilo in their early childhood. She has grand dreams of becoming an adventurer and exploring unknown lands, and is very passionate about it. She is also very caring and tries to help Nilo overcome their anxiety, though she is not very good at it.
 
 At a young age, she discovered that she could stay lucid in her dreams, and discovered the Dream World. So far, no one else she knew could do the same, so she kept it a secret to everyone but Nilo.
+
+## Enemies
+
+### Lantern Fly
+
+A literal 'lantern' fly. Represents Nilo's fear of bugs. A minor fear that they can easily overcome.
+
+Does melee attacks only. Weak, but can be dangerous in groups.
+
+**Moves**:
+
+- Claw Attack: The lanternfly attacks with its claws. Short range melee attack.
+
+### Eyeball
+
+A floating eyeball. Represents Nilo's anxiety. A major issue in their life, and a stronger enemy. Stronger versions of this enemy can be found in many proceeding levels in the game.
+
+Does ranged attacks (eye laser). Bit hard to dodge, later versions might have shorter warning before attacking, attacking faster, melee attacks, and so on.
+
+**Moves**:
+
+- Eye Laser: The eyeball shoots a laser. The eyeball flashes before doing so, and will stop moving a moment before it attacks.
 
 ## Setting
 
