@@ -55,6 +55,10 @@ The Fellow Dreamer is a energetic and cheerful girl, the only friend of Nilo in 
 
 At a young age, she discovered that she could stay lucid in her dreams, and discovered the Dream World. So far, no one else she knew could do the same, so she kept it a secret to everyone but Nilo.
 
+### Svartskogen
+
+### The Handler
+
 ## Enemies
 
 ### Lantern Fly
@@ -72,6 +76,12 @@ Does melee attacks only. Weak, but can be dangerous in groups.
 A floating eyeball. Represents Nilo's anxiety. A major issue in their life, and a stronger enemy. Stronger versions of this enemy can be found in many proceeding levels in the game.
 
 Does ranged attacks (eye laser). Bit hard to dodge, later versions might have shorter warning before attacking, attacking faster, melee attacks, and so on.
+
+### Bat
+
+### Feral Cat
+
+### Thorny Plant
 
 **Moves**:
 
