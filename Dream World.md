@@ -2,18 +2,16 @@
 
 ## Summary
 
-The Dream World is an alternate dimension that exists parallel to the Waking World. For whatever reason, when people fall asleep, they find themselves in the Dream World, in the First Layer. There, they arrive on their own island, which is shaped by their subconscious mind, and they experience their dreams. Most people are not lucid in the Dream World, only ever staying in the First Layer to experience their dreams every night. However, there are many layers to the Dream World, where creatures born from the dreams and nightmares of all who have ever slept reside, where the lines between imagination and reality blur.
+The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
 
-The Dream World is inspired by the theory of Carl Jung's ['Collective Unconscious'](https://en.wikipedia.org/wiki/Collective_unconscious), which is the idea that all humans share a collective unconscious that surrounds the unconscious mind of each individual, distinct from the personal unconscious, another psychological concept. The Dream World is the manifestation of the unconscious, with the island in the First Layer being the personal unconscious, and the lower layers being the sea that surrounds them, the collective unconscious. Landscapes and creatures in the Dream World are inspired by the 'instincts' and 'archetypes' that Jung brings up in his theory.
+Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
+
+## Message
+
+A core message of the game is moving on from the past, and accepting change. The Dream World was once a wonderful place, now in ruins. Some of the creatures of the Dream World are still stuck in the past, unable to accept the change that has happened, and are still trying to live in the past. But only by accepting that the past is gone, and moving on, can they begin to rebuild a new home.
+
+This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in the past, their anxiety causing them to be consumed by their past mistakes and regrets, unable to move on until they accept that the past is gone, and that they can't change it. The Fellow Dreamer, likewise, is stuck in the past, being unable to move on from their falling out with Nilo, and is unable to accept that they can't change the past. Only by accepting that the past is gone, and moving on, can they both begin to heal and rebuild their friendship.
 
 ## Dreamers
 
-While most people are not lucid when they enter the Dream World, there are a lucky few who remain conscious and aware of their surroundings. These people are called Dreamers, who possess the rare ability to freely roam the Dream World, exploring the many layers, interacting with the creatures that live there, and even gaining powers of their own.
-
-Dreamers are able to enter the Dream World whenever they fall asleep, and return to the Waking World when they become too lucid, or fall unconscious. However, Dreamers must be careful not to be stuck and unable to become lucid or fall unconscious, as their bodies will not wake up as long as they are in the Dream World. Their bodies will remain in a coma-like state, and they will eventually die if they do not manage to escape.
-
-## Layers
-
-The Dream World can be likened to a vast sea, with many islands on its surface. The islands are the First Layer, representing each individual's personal unconscious, and the sea is the lower layers, representing the collective unconscious. Each person's island is unique and shaped by their subconscious mind, but can be influenced by the collective unconscious.
-
-The actual appearance of the Dream World is a sea of clouds, on top of which the islands float. The sea is seemingly endless, and the islands are scattered across it.
+The rare few who still Dream, able to stay lucid in their dreams and explore the Dream World. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.

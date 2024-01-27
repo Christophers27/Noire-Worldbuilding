@@ -27,7 +27,7 @@
 
 Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only the Fellow Dreamer approaching and befriending them in their early childhood.
 
-*Note: The Fellow Dreamer's is currently undecided and a WIP.*
+*Note: The Fellow Dreamer's name is currently undecided and a WIP.*
 
 The Fellow Dreamer was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. The Fellow Dreamer dreamed of becoming a famous adventurer, and later discovered that they had the ability to stay lucid in their dreams, allowing them to explore the Dream World. They would often tell Nilo about their adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
 
