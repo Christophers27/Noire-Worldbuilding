@@ -13,8 +13,11 @@
     - [Lantern Fly](#lantern-fly)
     - [Eyeball](#eyeball)
   - [Setting](#setting)
+  - [Message](#message)
+  - [Levels](#levels)
+    - [Level 1: Solura Valley](#level-1-solura-valley)
   - [Gameplay](#gameplay)
-    - [Lucidity Mechanic](#lucidity-mechanic)
+    - [Dream State Mechanic](#dream-state-mechanic)
   - [Art](#art)
   - [Sound and Music](#sound-and-music)
   - [UI and Controls](#ui-and-controls)
@@ -89,21 +92,35 @@ Does ranged attacks (eye laser). Bit hard to dodge, later versions might have sh
 
 ## Setting
 
-The game takes place in the Dream World, a mysterious, surreal world, where everyone goes when they dream. A Dreamer is someone who can stay lucid in their dreams, and explore the Dream World.
+The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
 
-The Dream World is divided into layers, with the First Layer being where everyone enters when they dream. The First Layer is made up of islands, each representing the personal unconscious of a person, and the sea of clouds they float on represents the collective unconscious. The lower layers are the collective unconscious, where creatures born from imagination and minds of all who have ever slept reside.
-
-The Dream World is inspired by the theory of Carl Jung's ['Collective Unconscious'](https://en.wikipedia.org/wiki/Collective_unconscious), which is the idea that all humans share a collective unconscious that surrounds the unconscious mind of each individual, distinct from the personal unconscious, another psychological concept. The Dream World is the manifestation of the unconscious, with the island in the First Layer being the personal unconscious, and the lower layers being the sea that surrounds them, the collective unconscious. Landscapes and creatures in the Dream World are inspired by the 'instincts' and 'archetypes' that Jung brings up in his theory.
+Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
 
 As Nilo goes deeper into the Dream World, what they encounter will become less and less familiar and specific to them, and more fantastical and abstract, as they enter the collective unconscious. This allows the game to explore Nilo's personal story, while not being limited to it, and also allows for more creative and surreal environments and creatures.
+
+## Message
+
+A core message of the game is moving on from the past, and accepting change. The Dream World was once a wonderful place, now in ruins. Some of the creatures of the Dream World are still stuck in the past, unable to accept the change that has happened, and are still trying to live in the past. But only by accepting that the past is gone, and moving on, can they begin to rebuild a new home.
+
+This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in the past, their anxiety causing them to be consumed by their past mistakes and regrets, unable to move on until they accept that the past is gone, and that they can't change it. The Fellow Dreamer, likewise, is stuck in the past, being unable to move on from their falling out with Nilo, and is unable to accept that they can't change the past. Only by accepting that the past is gone, and moving on, can they both begin to heal and rebuild their friendship.
+
+## Levels
+
+### Level 1: Solura Valley
+
+This area represents Nilo's early childhood. The Svartskogen, an NPC made from the memory of Nilo's childhood toy, can be found here, as well as a scene from Nilo's childhood. There are three areas:
+
+- Solura Path: A cobblestone path leading down a grassy valley. Stone ruins half-buried in the ground litter the landscape.
+- Solura Cliffs: Across the valley is a cliff, houses built into its sides. In the houses, scenes from Nilo's childhood can be seen.
+- School House: A twisted version of Nilo's middle school, dredged from unpleasant memories, stands at the end of the valley. Dark hallways and unpleasant memories adorn the school. An unpleasant encounter lies inside.
 
 ## Gameplay
 
 The gameplay of Noire is similar to the indie game Hades, with a fixed camera angle, attacking with a melee weapon, and dashing to avoid attacks.
 
-### Lucidity Mechanic
+### Dream State Mechanic
 
-A core mechanic of the game is the Lucidity mechanic. Nilo has three health bars, or states, which represent how lucid they are. With one health bar, they are in a Lucid state, and with three, they are in a Deep Dreaming state. In different states, Nilo has different core abilities, and the enemies may have different abilities and behaviors, making the game more or less difficult.
+A core mechanic of the game is the Dream State mechanic. If the player dies while in the Deep Dreaming state, they will appear in their last save point again, but in the Lucid state. Now, they have less health, and have to kill the enemy that killed them to be in the Deep Dreaming state again. If they die again, the game ends.
 
 ## Art
 
