@@ -8,7 +8,7 @@
   - [Story](#story)
   - [Characters](#characters)
     - [Nilo](#nilo)
-    - [The Fellow Dreamer](#the-fellow-dreamer)
+    - [Florence](#florence)
     - [Svartskogen](#svartskogen)
     - [The Handler](#the-handler)
   - [Enemies](#enemies)
@@ -21,6 +21,7 @@
   - [Message](#message)
   - [Levels](#levels)
     - [Level 1: Solura Valley](#level-1-solura-valley)
+    - [Level 2: (Name TBD)](#level-2-name-tbd)
   - [Gameplay](#gameplay)
     - [Dream State Mechanic](#dream-state-mechanic)
   - [Art](#art)
@@ -29,25 +30,25 @@
 
 ## Summary
 
-*Noire* is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, who was taken to the Dream World and find their mysterious friend, the Fellow Dreamer, somewhere in the depths of the Dream World. It's a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to overcome their fears and face their past, growing as a person, before they can find the Fellow Dreamer.
+*Noire* is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, who was taken to the Dream World and find their mysterious friend, Florence, the Fellow Dreamer, somewhere in the depths of the Dream World. It's a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to overcome their fears and face their past, growing as a person, before they can find Florence.
 
 ## Story
 
-Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only the Fellow Dreamer approaching and befriending them in their early childhood.
+Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only Florence approaching and befriending them in their early childhood.
 
 *Note: The Fellow Dreamer's name is currently undecided and a WIP.*
 
-The Fellow Dreamer was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. The Fellow Dreamer dreamed of becoming a famous adventurer, and later discovered that they had the ability to stay lucid in their dreams, allowing them to explore the Dream World. They would often tell Nilo about their adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
+Florence was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. She dreamed of becoming a famous adventurer, and later discovered that they had the ability to stay lucid in their dreams, allowing them to explore the Dream World. They would often tell Nilo about their adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
 
-Over time, Nilo and the Fellow Dreamer grew apart, as the Fellow Dreamer became more invested in their adventures, and also frustrated with Nilo's lack of progress in overcoming their anxiety despite their efforts to help them. Nilo, on the other hand, felt the Fellow Dreamer was becoming more distant and was worried that they would leave them behind. The unresolved tension and lack of communication between them eventually led to a falling out, causing Nilo to become more withdrawn and the Fellow Dreamer to turn to the Dream World to escape their problems.
+Over time, Nilo and Florence grew apart, as Florence became more invested in their adventures, and also frustrated with Nilo's lack of progress in overcoming their anxiety despite their efforts to help them. Nilo, on the other hand, felt she was becoming more distant and was worried that they would leave them behind. The unresolved tension and lack of communication between them eventually led to a falling out, causing Nilo to become more withdrawn and Florence to turn to the Dream World to escape their problems.
 
-The Fellow Dreamer, distracted by the falling out, made a mistake in the Dream World, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, they fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
+Florence, distracted by the falling out, made a mistake in the Dream World, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, they fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
 
 *Note: The reason for the Fellow Dreamer being trapped in the Dream World is subject to change, as it can play a big role in the story.*
 
-Many years later, Nilo, now a young adult, is struggling with depression, and has been having strange dreams. One night, they wake up in the Dream World, having been pulled in by the Fellow Dreamer, who is still trapped in the Dream World. They find a note, left by the Fellow Dreamer, telling them where they are, and that she is stuck in the lower layers. Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
+Many years later, Nilo, now a young adult, is struggling with depression, and has been having strange dreams. One night, they wake up in the Dream World, having been pulled in by Florence, who is still trapped in the Dream World. They find a note, left by Florence, telling them where they are, and that she is stuck in the lower layers. Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
 
-Nilo sets out to explore the Dream World, hoping deep down that they will find the Fellow Dreamer, and that they can make up for their past mistakes. Throughout their journey, they will have to face various enemies, which represent Nilo's fears and regrets, and overcome them, growing as a person through the process.
+Nilo sets out to explore the Dream World, hoping deep down that they will find her, and that they can make up for their past mistakes. Throughout their journey, they will have to face various enemies, which represent Nilo's fears and regrets, and overcome them, growing as a person through the process.
 
 ## Characters
 
@@ -57,15 +58,19 @@ Nilo is the player character, a young adult with a troubled past, who has been s
 
 Their appearance and gender are purposefully kept vague, so anyone can relate to them. They are a silent protagonist, and their personality is mostly revealed through the journal entries they write throughout the game.
 
-### The Fellow Dreamer
+### Florence
 
-The Fellow Dreamer is a energetic and cheerful girl, the only friend of Nilo in their early childhood. She has grand dreams of becoming an adventurer and exploring unknown lands, and is very passionate about it. She is also very caring and tries to help Nilo overcome their anxiety, though she is not very good at it.
+Florence is a energetic and cheerful girl, the only friend of Nilo in their early childhood. She has grand dreams of becoming an adventurer and exploring unknown lands, and is very passionate about it. She is also very caring and tries to help Nilo overcome their anxiety, though she is not very good at it.
 
 At a young age, she discovered that she could stay lucid in her dreams, and discovered the Dream World. So far, no one else she knew could do the same, so she kept it a secret to everyone but Nilo.
 
 ### Svartskogen
 
 ### The Handler
+
+An inhabitant of the Dream World who the Fellow Dreamer has helped in the past. They know that something has happened to the Fellow Dreamer in the lower layers, but they aren't strong enough to go past the Second Layer.
+
+A mysterious figure who knows a lot about the Dream World, and is able to guide Nilo through their journey. They have a strong desire to return the Dream World to its former glory, and later on, might not agree with Nilo's decisions if the player chooses certain paths.
 
 ## Enemies
 
@@ -85,15 +90,15 @@ A floating eyeball. Represents Nilo's anxiety. A major issue in their life, and 
 
 Does ranged attacks (eye laser). Bit hard to dodge, later versions might have shorter warning before attacking, attacking faster, melee attacks, and so on.
 
+**Moves**:
+
+- Eye Laser: The eyeball shoots a laser. The eyeball flashes before doing so, and will stop moving a moment before it attacks.
+
 ### Bat
 
 ### Feral Cat
 
 ### Thorny Plant
-
-**Moves**:
-
-- Eye Laser: The eyeball shoots a laser. The eyeball flashes before doing so, and will stop moving a moment before it attacks.
 
 ## Setting
 
@@ -113,11 +118,33 @@ This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in 
 
 ### Level 1: Solura Valley
 
-This area represents Nilo's early childhood. The Svartskogen, an NPC made from the memory of Nilo's childhood toy, can be found here, as well as a scene from Nilo's childhood. There are three areas:
+This area represents Nilo's childhood, Nilo's island of consciousness in the Dream World. It has a melancholic, nostalgic feel to it.
 
+The Svartskogen, an NPC made from the memory of Nilo's childhood toy, can be found here, as well as a scene from Nilo's childhood. There are four initial areas:
+
+- Bedrock Plains: A small area in the edge of Nilo's island of consciousness. The walls and floor of Nilo's bedroom, drawn from their memories, lie strewn about the area. It serves as a hub area where some NPCs and maybe work stations can be found as the player progresses through the game.
 - Solura Path: A cobblestone path leading down a grassy valley. Stone ruins half-buried in the ground litter the landscape.
 - Solura Cliffs: Across the valley is a cliff, houses built into its sides. In the houses, scenes from Nilo's childhood can be seen.
 - School House: A twisted version of Nilo's middle school, dredged from unpleasant memories, stands at the end of the valley. Dark hallways and unpleasant memories adorn the school. An unpleasant encounter lies inside.
+
+There are also several side areas, unreachable until certain abilities or items are obtained:
+
+- (Name TBD): Unlocked by a super dash ability, allowing the player to cross a large gap. Area description to be determined.
+- (Name TBD): A dark cave in the side of Solura Cliffs, blocked by a shadowy monster. The monster can only be defeated by a light-based weapon, which can be found in a later level.
+- (Name TBD): The top of the Solura Cliffs, needing a grappling hook to pull an unreachable platform closer to the player to access.
+- (Name TBD): A small area, where an elevator shaft can be found. The elevator is unlocked in Level 2, and allows fast travel between the two levels.
+- Shorelines: A secret area, only accessible with some key item (TBD). A small, peaceful beach, where the the island river turns into a waterfall. A small, hidden cave can be found here, with a secret item inside.
+
+### Level 2: (Name TBD)
+
+This area represents Nilo's college years. A large, pristine, and tidy university building. The clean white halls inside, representing Nilo's desire to start anew and hopes for the future, slowly turn dilapidated and dark as the player progresses through the level, representing Nilo's growing uncertainty about their major and anxiety about the future.
+
+The level is divided into several areas:
+
+- Entrance Hall: The entrance of the university, with a large, grand staircase leading up to the second floor. Many doorways and hallways create a maze-like structure.
+- Dark Maze: The dark, dilapidated hallways of the university, with many locked doors and blocked paths. The player must find a way to unlock the doors and unblock the paths to progress. A light-based weapon can be found here, allowing the player to fight shadow-based enemies and unlocking dark areas.
+- Library: A large library, with many bookshelves and tables. A puzzle involving moving bookshelves to create a path to the next area.
+- Counselor's Office: A small, dark room, with a desk and a chair. Here, Nilo is presented with two terrible choices, and must learn that sometimes, they must make their own choices. The office and preceeding hallway is an infinite loop, and only by making their own path can they escape.
 
 ## Gameplay
 
