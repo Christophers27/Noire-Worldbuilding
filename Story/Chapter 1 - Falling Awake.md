@@ -14,6 +14,12 @@
 
 ### Solura Path
 
+A cobblestone path leading down a grassy valley, stone ruins half-buried in the ground scattered about. At the bottom of the valley, a Y-shaped river flows, with two bridges crossing it. The left bridge has a path leading to the School House, and the right bridge leads to the Solura Cliffs. 
+
+The Handler can be found in the middle of the path, awaiting Nilo's arrival. They give Nilo a strange umbrella, and warns them of rainy days ahead. The umbrella is enchanted to be able to damage creatures of the Dream World, and is the player's main weapon.
+
+At the bottom of the path, Lanternflies can be found, creatures born from Nilo's fear of bugs. The path leads to the Y-shaped river, where the left bridge is blocked by the Svartskogen, a large anthromorphic figure resembling Nilo's childhood toy. Speaking to the Svartskogen gives the player some vague hints about where they are, some background about Nilo's past, and a quest to find a sewing kit in order to repair the Svartskogen and unblock the bridge.
+
 - Nilo finds themself at the top of a cobblestone path, leading down into a valley.
 - Halfway down the path, Nilo meets a mysterious figure, who comments that there might be rainy days ahead, and gives them an umbrella.
   - The umbrella is the player's main weapon, and is enchanted to be able to damage creatures of the Dream World.
@@ -27,6 +33,16 @@
 - Going down the right bridge leads to the Solura Cliffs area.
 
 ### Solura Cliffs
+
+A large, open area with imposing cliffs, dotted with houses built into the rock. The Solura Cliffs is the second area of the Solura Valley, and is where the player can find the sewing kit to repair the Svartskogen, and an optional side quest to find all the sheep.
+
+Enemies hide amongst trees along the path to the cliffs, and the player can find the second enemy type, the Eyeball, in the area. Within the cliff houses are scenes of Nilo's past, and the main house will show a scene of Nilo's birthday party, where only the Fellow Dreamer showed up.
+
+The Solura Cliffs is also where the player can find the sewing kit to repair the Svartskogen, and an optional side quest to find all the sheep. The sheep are scattered around the area, and are hidden in various places.
+
+A strange cave at the edge of the cliffs is blocked by a shadow-type enemy, unable to be damaged by the umbrella. A light-based weapon from Level 2 is needed to explore this side area.
+
+The player can also use a grappling hook, found later in the game, to explore reach the top of the cliffs and explore a hidden area.
 
 - There are cliff houses built into the cliffs, where the player can find the sewing kit, and an empty sheep pen at the side for an optional side quest to find all the sheep.
   - The sheep are scattered around the area, and are hidden in various places.
@@ -44,4 +60,6 @@
 
 ### School House
 
+The Schoolyard Exterior is the final outdoor section of the first chapter. A field similar to those of Solura Path, and Solura Cliffs, the biggest differences are the presence of playground equipment, and a large schoolhouse towards the top of the hill.
 
+The Classroom is the first bossfight arena. When Nilo first walks in, the room is found in diusorder, with desks swept to the sides of the room.
