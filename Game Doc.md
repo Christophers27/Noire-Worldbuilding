@@ -21,7 +21,7 @@
   - [Message](#message)
   - [Levels](#levels)
     - [Level 1: Solura Valley](#level-1-solura-valley)
-    - [Level 2: (Name TBD)](#level-2-name-tbd)
+    - [Level 2: University Ruins](#level-2-university-ruins)
   - [Gameplay](#gameplay)
     - [Dream State Mechanic](#dream-state-mechanic)
   - [Art](#art)
@@ -30,13 +30,13 @@
 
 ## Summary
 
-*Noire* is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, who was taken to the Dream World and find their mysterious friend, Florence, the Fellow Dreamer, somewhere in the depths of the Dream World. It's a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to overcome their fears and face their past, growing as a person, before they can find Florence.
+_Noire_ is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, who was taken to the Dream World and find their mysterious friend, Florence, the Fellow Dreamer, somewhere in the depths of the Dream World. It's a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to overcome their fears and face their past, growing as a person, before they can find Florence.
 
 ## Story
 
 Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only Florence approaching and befriending them in their early childhood.
 
-*Note: The Fellow Dreamer's name is currently undecided and a WIP.*
+_Note: The Fellow Dreamer's name is currently undecided and a WIP._
 
 Florence was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. She dreamed of becoming a famous adventurer, and later discovered that they had the ability to stay lucid in their dreams, allowing them to explore the Dream World. They would often tell Nilo about their adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
 
@@ -44,7 +44,7 @@ Over time, Nilo and Florence grew apart, as Florence became more invested in the
 
 Florence, distracted by the falling out, made a mistake in the Dream World, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, they fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
 
-*Note: The reason for the Fellow Dreamer being trapped in the Dream World is subject to change, as it can play a big role in the story.*
+_Note: The reason for the Fellow Dreamer being trapped in the Dream World is subject to change, as it can play a big role in the story._
 
 Many years later, Nilo, now a young adult, is struggling with depression, and has been having strange dreams. One night, they wake up in the Dream World, having been pulled in by Florence, who is still trapped in the Dream World. They find a note, left by Florence, telling them where they are, and that she is stuck in the lower layers. Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
 
@@ -135,7 +135,7 @@ There are also several side areas, unreachable until certain abilities or items 
 - (Name TBD): A small area, where an elevator shaft can be found. The elevator is unlocked in Level 2, and allows fast travel between the two levels.
 - Shorelines: A secret area, only accessible with some key item (TBD). A small, peaceful beach, where the the island river turns into a waterfall. A small, hidden cave can be found here, with a secret item inside.
 
-### Level 2: (Name TBD)
+### Level 2: University Ruins
 
 This area represents Nilo's college years. A large, pristine, and tidy university building. The clean white halls inside, representing Nilo's desire to start anew and hopes for the future, slowly turn dilapidated and dark as the player progresses through the level, representing Nilo's growing uncertainty about their major and anxiety about the future.
 
