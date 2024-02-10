@@ -4,7 +4,7 @@
 
 The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
 
-Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
+Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. A fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
 
 ## Message
 
@@ -15,3 +15,9 @@ This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in 
 ## Dreamers
 
 The rare few who still Dream, able to stay lucid in their dreams and explore the Dream World. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
+
+## The Fog
+
+"It came slowly and silently, like an old memory is quietly forgotten. As the Dream World was forgotten by man, the fog began to spread across the Dream World. It trawled through the kingdoms, swallowing everything in its path. Everything, everyone it touched, was changed, or worse, disappeared. Even now, I can still hear the echoes of the Dream World's past, the cries of the creatures that were swallowed by the fog. I sometimes find pictures of myself with smiling faces, but no names, no memories, come to mind. I shudder to think what happened to them." - The Handler
+
+The Dream World was born from humanity's knowledge and imagination, and when humanity began to forget about it, the Dream World began to fade and crumble. The fog is a manifestation of the Dream World's fading, the opposite of knowing, Ignorance. It is a force that changes and distorts, erasing that which is no longer known.
