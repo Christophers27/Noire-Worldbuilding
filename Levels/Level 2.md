@@ -6,11 +6,17 @@ Below Solura Island, in the foggy sea of the Dream World, lies the University Ru
 
 ## Entrance Hall
 
-The entrance of the university, with a large, grand staircase leading up to the second floor. Many doorways and hallways create a maze-like structure.
+The entrance of the university, with a large, grand staircase leading up to the second floor. Many doorways and hallways create a maze-like structure. It is pristine and well-kept, representing Nilo's initial hopeful outlook on college and a fresh start. The architecture is orderly and symmetrical, with a lot of natural light.
+
+Ahead, on the first floor, is a long hallway with many doors, leading to the Dark Maze. As the player progresses, the hallway will become darker, more dilapidated and asymmetrical, with twists and turns. At a certain point, the player will be unable to return to the entrance hall, and will be forced to continue forward.
 
 ---
 
 - The Counselor first appears here, and has a scripted fight with Nilo. The player cannot win, and the Counselor will disappear after the fight, leaving behind a clue on how to defeat them later in the game.
+- The door at the top of the staircase, which leads to the rooms of the second floor, is locked. The player will return here after escaping the Dark Maze and Library, and will lead to the Counselor's Office.
+- In the transition to the Dark Maze, the hallway will begin to have turns and blocked paths, requiring the player to go through various rooms with many doors to go forward.
+  - The purpose of this is to make the player feel lost, and have a smooth transition to the Dark Maze area. 
+  - At a certain checkpoint, the player will go through one of multiple doors that teleports them to the Dark Maze. I'm thinking the darkness can hide the area transition, and make it seem like the player is just going forward.
 
 ## Dark Maze
 
