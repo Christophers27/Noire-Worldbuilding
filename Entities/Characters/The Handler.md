@@ -1,12 +1,8 @@
 # The Handler
 
-<!-- An inhabitant of the Dream World who the Fellow Dreamer has helped in the past. They know that something has happened to the Fellow Dreamer in the lower layers, but they aren't strong enough to go past the Second Layer.
-
-They sensed the arrival of Nilo in the Dream World and know who they are. They decided to go to Nilo's dream island and give them some guidance, to prepare them for the trials ahead.
-
-The Handler has a strong desire to return the Dream World to its former glory, and later on, might not agree with Nilo's decisions if the player chooses certain paths. -->
-
 A mysterious figure who Nilo encounters at various points in their adventure. He occasionally gives Nilo advice and guidance, but his true motives seem unclear.
+
+He once traveled with Florence for a time, having been a friend of hers before she was trapped in the lower layers of the Dream World. He is determined to restore the Dream World to its former glory, and is eager to get Nilo to rescue Florence. He might not agree with Nilo's decisions if the player chooses to take certain paths.
 
 ## History
 
@@ -26,4 +22,6 @@ The Handler has been waiting for someone new to come along and help him in his q
 
 ## Personality
 
-The Handler is a kind and helpful person, determined to restore the Dream World to its former glory. He is stuck in the past, unable to move on from the old days, and is unable to accept that the Dream World has changed. He will guide Nilo to help him in his quest, but he might not agree with Nilo's decisions if the player chooses to take certain paths.
+<!-- The Handler is a kind and helpful person, determined to restore the Dream World to its former glory. He is stuck in the past, unable to move on from the old days, and is unable to accept that the Dream World has changed. He will guide Nilo to help him in his quest, but he might not agree with Nilo's decisions if the player chooses to take certain paths. -->
+
+The Handler is kind and helpful, but he is also stuck in the past, unable to move on from the old days. He is determined to restore the Dream World to its former glory, and will try to guide anyone who comes along to help him in his quest. He is also haunted by the the fall of the Liminal City and the loss of his friends, and is terrified of the fog and what it has done to the Dream World.

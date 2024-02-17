@@ -36,15 +36,11 @@ _Noire_ is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled pas
 
 Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only Florence approaching and befriending them in their early childhood.
 
-_Note: The Fellow Dreamer's name is currently undecided and a WIP._
+Florence was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. She dreamed of becoming a famous adventurer, and later discovered that she had the ability to stay lucid in her dreams, allowing her to explore the Dream World. She would often tell Nilo about her adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
 
-Florence was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. She dreamed of becoming a famous adventurer, and later discovered that they had the ability to stay lucid in their dreams, allowing them to explore the Dream World. They would often tell Nilo about their adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
+Over time, Nilo and Florence grew apart, as Florence became more invested in her adventures, and also frustrated with Nilo's lack of progress in overcoming their anxiety despite her efforts to help them. Nilo, on the other hand, felt she was becoming more distant and was worried that she would leave them behind. The unresolved tension and lack of communication between them eventually led to a falling out, causing Nilo to become more withdrawn and Florence to turn to the Dream World to escape her problems.
 
-Over time, Nilo and Florence grew apart, as Florence became more invested in their adventures, and also frustrated with Nilo's lack of progress in overcoming their anxiety despite their efforts to help them. Nilo, on the other hand, felt she was becoming more distant and was worried that they would leave them behind. The unresolved tension and lack of communication between them eventually led to a falling out, causing Nilo to become more withdrawn and Florence to turn to the Dream World to escape their problems.
-
-Florence, distracted by the falling out, made a mistake in the Dream World, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, they fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
-
-_Note: The reason for the Fellow Dreamer being trapped in the Dream World is subject to change, as it can play a big role in the story._
+Florence, distracted by the falling out, made a mistake while adventuring, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, she fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
 
 Many years later, Nilo, now a young adult, is struggling with depression, and has been having strange dreams. One night, they wake up in the Dream World, having been pulled in by Florence, who is still trapped in the Dream World. They find a note, left by Florence, telling them where they are, and that she is stuck in the lower layers. Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
 
@@ -68,9 +64,9 @@ At a young age, she discovered that she could stay lucid in her dreams, and disc
 
 ### The Handler
 
-An inhabitant of the Dream World who the Fellow Dreamer has helped in the past. They know that something has happened to the Fellow Dreamer in the lower layers, but they aren't strong enough to go past the Second Layer.
+A mysterious figure who Nilo encounters at various points in their adventure. He occasionally gives Nilo advice and guidance, but his true motives seem unclear.
 
-A mysterious figure who knows a lot about the Dream World, and is able to guide Nilo through their journey. They have a strong desire to return the Dream World to its former glory, and later on, might not agree with Nilo's decisions if the player chooses certain paths.
+He once traveled with Florence for a time, having been a friend of hers before she was trapped in the lower layers of the Dream World. He is determined to restore the Dream World to its former glory, and is eager to get Nilo to rescue Florence. He might not agree with Nilo's decisions if the player chooses to take certain paths.
 
 ## Enemies
 
@@ -104,9 +100,7 @@ Does ranged attacks (eye laser). Bit hard to dodge, later versions might have sh
 
 The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
 
-Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
-
-As Nilo goes deeper into the Dream World, what they encounter will become less and less familiar and specific to them, and more fantastical and abstract, as they enter the collective unconscious. This allows the game to explore Nilo's personal story, while not being limited to it, and also allows for more creative and surreal environments and creatures.
+Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. A fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
 
 ## Message
 
