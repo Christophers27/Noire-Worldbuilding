@@ -2,9 +2,10 @@
 
 ## Introduction
 
-A small, but vicious cat. It's agile, but will generally leave Nilo alone, unless provoked. In that case, it will run at Nilo, and attack once it gets in melee range.
+A small, but vicious cat. It's agile, but will generally leave Nilo alone, unless it sees them.
+In that case, it will run at Nilo, and attack.
 
 **Moves**:
 
-The feral cat will scratch Nilo with its claws. Each scratch attack will not deal much damage, but
-there will be a short cooldown between attacks.
+- Pounce: If the cat detects the player, it will run at the player and attack once in range. 
+If the player does not kill the cat, it will run away and hide until it sees the plsyer again.
