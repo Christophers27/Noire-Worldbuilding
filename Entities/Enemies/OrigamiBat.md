@@ -9,3 +9,4 @@ It has low health but high attack, making it a nuisance to players unless they'v
 **Moves**:
 
 - Dive: The bat dives down quickly, attacking the player with its claws. It's short range allows players to dodge if they pre-emptively move to the side.
+
