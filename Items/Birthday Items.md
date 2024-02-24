@@ -1,12 +1,19 @@
 # Cake
-Cake! Dad also had a slice, only 3 slices were cut out. 
+A small chocolate cake with 3 slices cut out. Some of the candles are still lit.
+"Cake! Dad also had a slice, only 3 slices were cut out."
 
 # Balloons
-The cat was terrified of the balloons, as they slowly deflated lower and lower to the ground during the week
-following the party.
+A set of multicolored party balloons.
+"The cat was terrified of the balloons as they slowly sank lower and lower after the party."
 
 # Gift Table
-One gift, only one gift, a stuffed bear named Djungelskog. 
+An empty foldable table that has a single torn open gift - a smaller Svartskogen.
+"Just one gift, a little stuffed bear named Svartskogen."
+
+# Svartskogen
+A smaller Svartskogen. His right leg looks sewn together.
+"Svartskogen. Mom had to sew his leg back together after I tore it."
 
 # Drawer
-Shuffling through the trinkets and tools, a sewing kit reveals itself.
+A half-open large drawer filled with trinkets and tools. The sewing kit is somewhere in there.
+"Shuffling through the trinkets and tools, a sewing kit reveals itself."
