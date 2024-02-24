@@ -2,7 +2,7 @@
 
 ## Description
 
-A giant stuffed bear that was one of Nilo's childhood toys. A gift from Florence, it was a source of comfort to Nilo as a child. 
+A giant stuffed bear that was one of Nilo's childhood toys. A gift from Florence, it was a source of comfort to Nilo as a child.
 
 ## Introduction
 

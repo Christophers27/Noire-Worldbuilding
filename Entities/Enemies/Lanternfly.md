@@ -25,4 +25,4 @@ A stronger version of the lanternfly, twisted by the fog. It is larger and more 
 
 This lanternfly has an especially fiery lantern and a short temper. It rushes towards the player once seen, before exploding.
 
-- Explode: When the player is detected, the lanternfly makes a short dash towards them to attack them. If the dash does not make the player in range of attack, the lanternfly will keep moving at a faster speed. When within range, it will stop and explode after a short time.
+- Explode: When the player is detected, the lanternfly makes a short dash towards them to attack them. If the dash does not make the player in range of attack, the lanternfly will keep moving at a faster speed. When within range, it will slow down and explode after a short time.
