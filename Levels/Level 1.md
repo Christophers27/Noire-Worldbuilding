@@ -115,6 +115,10 @@ The Handler will test Nilo here, shadowy, grasping, inhuman hands bursting throu
       - The bridge is in Solura Path.
     - The Handler will disappear once out of view.
 
+### School Yard (Sub-Area)
+
+**WIP**
+
 ## The Shorelines (Hidden Area)
 
 A hidden area unlocked by having a key item from some later level (we'll decide this later). A small, peaceful beach lies at the edge of the island, where the river seen earlier flows off the edge of the island as a waterfall. (Tentative): This area is on the other side of the cliffs.

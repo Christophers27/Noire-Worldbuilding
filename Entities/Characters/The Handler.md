@@ -22,6 +22,4 @@ The Handler has been waiting for someone new to come along and help him in his q
 
 ## Personality
 
-<!-- The Handler is a kind and helpful person, determined to restore the Dream World to its former glory. He is stuck in the past, unable to move on from the old days, and is unable to accept that the Dream World has changed. He will guide Nilo to help him in his quest, but he might not agree with Nilo's decisions if the player chooses to take certain paths. -->
-
 The Handler is kind and helpful, but he is also stuck in the past, unable to move on from the old days. He is determined to restore the Dream World to its former glory, and will try to guide anyone who comes along to help him in his quest. He is also haunted by the the fall of the Liminal City and the loss of his friends, and is terrified of the fog and what it has done to the Dream World.
