@@ -33,8 +33,10 @@ At the bottom of the path, Lanternflies can be found, creatures born from Nilo's
 ---
 
 - Nilo finds themself at the top of a cobblestone path, leading down into a valley.
-- Halfway down the path, Nilo meets a mysterious figure, who comments that there might be rainy days ahead, and gives them an umbrella.
+- Halfway down the path, Nilo meets a mysterious figure (the Handler), who comments that there might be rainy days ahead, and gives them an umbrella.
   - The umbrella is the player's main weapon, and is enchanted to be able to damage creatures of the Dream World.
+  - The Handler theme first plays here.
+  - Nearby, there are some plants that sort of look like hands, which will be used later on to foreshadow his presence.
 - Following the path, they first encounter the first enemy type, the Lanternfly.
   - This is the combat tutorial.
   - Nilo is afraid of bugs, but begins to overcome their fear.
@@ -108,12 +110,13 @@ The Handler will test Nilo here, shadowy, grasping, inhuman hands bursting throu
   - Maybe drop some more hints of Nilo and Florence's relationship? Maybe how Florence stood up for Nilo against bullies?
 - A classroom at the end of the hall is the boss arena, where the Handler will test Nilo.
   - The tables and chairs in this room are swept to the corners, and the room is larger than the others.
-  - The boss fight starts with the Handler's arms bursting through the windows, swiping at Nilo.
+  - The fight with the Handler is foreshadowed by the music theme of the Handler starting to play as Nilo gets closer to the classroom, and also potted plants that sort of look like hands appearing in the hallway, the same that were seen in the first meeting of the Handler.
+- The boss fight starts with the Handler's arms bursting through the windows, swiping at Nilo.
   - After two phases, the arms will retract and the Handler will show themselves, explaining that they were testing Nilo.
   - They tell Nilo that the one who wrote the note is the Fellow Dreamer, and points Nilo to the next area and level of the game, the bridge to University Ruins.
-    - The Handler will give Nilo a pair of shoes for a dash ability, allowing them to cross the bridge.
-      - The bridge is in Solura Path.
-    - The Handler will disappear once out of view.
+- The Handler will give Nilo a pair of shoes for a dash ability, allowing them to cross the bridge.
+  - The bridge is in Solura Path.
+  - The Handler will disappear once out of view.
 
 ### School Yard (Sub-Area)
 

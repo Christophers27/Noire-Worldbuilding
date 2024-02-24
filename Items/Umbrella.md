@@ -1,11 +1,8 @@
 # Umbrella
 
-An enchanted umbrella given by the Handler to Nilo. It can be used to defeat the creatures of the Dream World. As you upgrade it, it can gain new abilities, and its appearance will change.
+An enchanted umbrella given by the Handler to Nilo. Runes are etched on the handle. It can be used to defeat the creatures of the Dream World. As you upgrade it, it can gain new abilities, and its appearance will change.
 
-**Moves**
+## Moves
 
-- Swipe Attack: A basic swipe in the near area around Nilo.
-  
-- Charged Swripe: Charging then swiping in an expanded area around Nilo.
-
-- Open Umbrella: Opening the umbrella shields Nilo from overhead attacks. When in using this 
+- Slash: With the umbrella closed, slash ahead in a wide arc.
+- Block: Open the umbrella, protecting Nilo from harm. Nilo can't attack while the umbrella is open.
