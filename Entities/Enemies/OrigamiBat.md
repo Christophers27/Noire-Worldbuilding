@@ -2,7 +2,7 @@
 
 An intricately folded origami bat, with glowing red eyes. It hides in the rafters and the dark shadows of the Schoolhouse. They hide in groups of two or three, circling about Nilo when detecting him, and occasionally diving down with a terrible screech. It reminds Nilo of the paper airplanes his bullies threw at him in school.
 
-It has low health but high attack, making it a nuisance to players unless they've learned to dodge.
+It has low health but high attack, making it a nuisance to players unless they've learned to dodge. 
 
 **Moves**
 
@@ -10,6 +10,6 @@ It has low health but high attack, making it a nuisance to players unless they'v
 
 **Statblock**
 
-- Health: #HP
+- Health: 1HP
 
-- Dive: #HP
+- Dive: 3HP

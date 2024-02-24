@@ -4,11 +4,10 @@ This lanternfly has an especially fiery lantern and a short temper. It rushes to
 
 **Moves**
 
-- Explode: When the player is detected, the lanternfly makes a short dash towards them to attack them. If the dash does not make the player in range of attack, the lanternfly will keep moving at a faster speed. When within range, it will stop and explode after a short time.
+- Explode: When the player is detected, the lanternfly makes a short dash towards them to attack them. If the dash does not make the player in range of attack, the lanternfly will keep moving at a faster speed. When within range, it will stop and explode after a short time. Exploding will result in the lanternfly killing itself.
 
 **Statblock**
 
 - Health: 1 HP
 
-- Attack: 1 HP
-- Explode: 5HP to nearby entities, kills user.
+- Explode: 5HP AOE around user.
