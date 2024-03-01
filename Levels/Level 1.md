@@ -77,19 +77,24 @@ A hidden area at the top of the cliffs, accessible by using a grappling hook to 
 - A grappling hook is required to reach this area.
   - Dev Note: Maybe put the grappling hook in level 3? I'm not sure about the implementation of making the map visible from here. Is this possible?
 
-## School Yard
+## Schoolyard
 
-### School House
+### Schoolhouse
 
 Nilo's old school house, dredged from unpleasant memories. Dark narrow halls close in claustrophobically, and echoes of mocking laughter can be heard here. Overturned chairs and tables lay strewn in the classrooms, as if a tornado had blown through.
-
-The Handler will test Nilo here, shadowy, grasping, inhuman hands bursting through the windows to batter at Nilo. Nilo will have to prove themselves ready to face the dangers in the Dream World.
 
 ---
 
 - The school house is meant to convey discomfort and fear to the player. Enemies are infrequent and may jumpscape the player when they appear.
 - There are several interactable items that indicate Nilo's unpleasant experience in school, with several bullies occasionally bothering Nilo.
   - Maybe drop some more hints of Nilo and Florence's relationship? Maybe how Florence stood up for Nilo against bullies?
+
+### Classroom
+
+The Handler will test Nilo here, shadowy, grasping, inhuman hands bursting through the windows to batter at Nilo. Nilo will have to prove themselves ready to face the dangers in the Dream World.
+
+---
+
 - A classroom at the end of the hall is the boss arena, where the Handler will test Nilo.
   - The tables and chairs in this room are swept to the corners, and the room is larger than the others.
   - The fight with the Handler is foreshadowed by the music theme of the Handler starting to play as Nilo gets closer to the classroom, and also potted plants that sort of look like hands appearing in the hallway, the same that were seen in the first meeting of the Handler.
