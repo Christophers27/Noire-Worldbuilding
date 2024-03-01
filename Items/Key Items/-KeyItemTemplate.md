@@ -2,7 +2,7 @@
 
 Visual description, where it is found. 
 
-**Funcationality/Moves**
+**Funcations/Moves**
 
 - Move Name: Description  of move
 - Move Name 2: Descritpion of second move.

@@ -10,7 +10,7 @@ A set of multicolored party balloons.
 An empty foldable table that has a single torn open gift - a smaller Svartskogen.
 "Just one gift, a little stuffed bear named Svartskogen."
 
-# Svartskogen
+# Svartskogen Plush
 A smaller Svartskogen. His right leg looks sewn together.
 "Svartskogen. Mom had to sew his leg back together after I tore it."
 

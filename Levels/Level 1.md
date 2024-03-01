@@ -2,27 +2,7 @@
 
 Solura Island is Nilo's island of consciousness, floating in the foggy sea of the Dream World. This is where the game begins. The island's theme is childhood, and the areas are drawn from Nilo's memories and experiences from that time.
 
-## Bedrock Plains (Hub Area)
-
-A small area in the edge of Nilo's island of consciousness. The walls and floor of Nilo's bedroom, drawn from their memories, lie strewn about the area. It serves as a hub area where some NPCs can be found as the player progresses through the game.
-
-The scene of Nilo's bedroom shows its messy state, with clothes and other items scattered around. It reflects Nilo's state of mind, and as the game progresses, the room will become cleaner and more organized, reflecting Nilo's growth.
-
-(Tentative): A small blocked off corner of the area could be a fast travel point to Level 3 or further areas, unlocked after clearing those levels.
-
-(Tentative): If some sort of crafting/item management system is added to the game, maybe we can put workstations here?
-
----
-
-- Nilo, the player character, wakes up in the Bedrock Plains, in the First Layer of the Dream World.
-- They find a note, left by the Fellow Dreamer, telling them where they are, and that she is stuck in the lower layers
-  - Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
-- Exploring the Bedrock Plains and interacting with the items reveals some background about the Fellow Dreamer and what happened to her.
-  - The tone of the text is somewhat melancholic, as Nilo has many unresolved regrets and issues from the past.
-  - The messy room reflects Nilo's state of mind.
-- Nilo finds a door, which leads to the next area, Solura Valley.
-
-## Solura Path (Area 1)
+## Solura Path
 
 A cobblestone path leads down a grassy valley, stone ruins half-buried in the ground scattered about. At the bottom of the valley, a Y-shaped river flows, with two bridges crossing it. The left bridge has a path leading to the School House, and the right bridge leads to the Solura Cliffs.
 
@@ -45,11 +25,11 @@ At the bottom of the path, Lanternflies can be found, creatures born from Nilo's
   - Speaking to the Svartskogen gives the player some vague hints about where they are, some background about Nilo's past, and a quest to find a sewing kit in order to repair the Svartskogen and unblock the bridge.
 - Going down the right bridge leads to the Solura Cliffs area.
 
-### Bridge to University Ruins (Sub-Area)
+### Bridge to University Ruins
 
 A forlorn, broken bridge hangs over the path to the school house. It leads out of the island itself, descending down into the foggy sea of the Dream World. A large gap in the bridge prevents Nilo from crossing, and the Handler will appear to give Nilo a pair of shoes for a dash ability, allowing them to cross the bridge.
 
-## Solura Cliffs (Area 2)
+## Solura Cliffs
 
 A large, open area with imposing cliffs, dotted with houses built into the rock. The Solura Cliffs is the second area of the Solura Valley, and is where the player can find the sewing kit to repair the Svartskogen, and an optional side quest to find all the sheep.
 
@@ -77,7 +57,7 @@ The player can also use a grappling hook, found later in the game, to explore re
   - The Svartskogen will then move out of the way, and the player can progress to the next area, the School House.
   - The Svartskogen will disappear once out of view, and can later be found in the hub area, the Bedrock Plains.
 
-### Shadow Cave (Sub-Area)
+### Shadow Cave
 
 A strangely dark cave pokes into the cliffside, and a shadowy enemy hides in the darkness. The player is unable to see in the cave, and a light is needed to explore it.
 
@@ -88,7 +68,7 @@ A strangely dark cave pokes into the cliffside, and a shadowy enemy hides in the
   - Some light source is needed to see in the cave.
 - The cave is an optional side area, filled with lore and items.
 
-### Clifftop (Sub-Area)
+### Clifftop
 
 A hidden area at the top of the cliffs, accessible by using a grappling hook to parkour up the cliff houses. A beautiful view of the island and the sea can be seen from here, and the player can find a hidden item.
 
@@ -97,7 +77,9 @@ A hidden area at the top of the cliffs, accessible by using a grappling hook to 
 - A grappling hook is required to reach this area.
   - Dev Note: Maybe put the grappling hook in level 3? I'm not sure about the implementation of making the map visible from here. Is this possible?
 
-## School House (Area 3)
+## School Yard
+
+### School House
 
 Nilo's old school house, dredged from unpleasant memories. Dark narrow halls close in claustrophobically, and echoes of mocking laughter can be heard here. Overturned chairs and tables lay strewn in the classrooms, as if a tornado had blown through.
 
@@ -117,10 +99,6 @@ The Handler will test Nilo here, shadowy, grasping, inhuman hands bursting throu
 - The Handler will give Nilo a pair of shoes for a dash ability, allowing them to cross the bridge.
   - The bridge is in Solura Path.
   - The Handler will disappear once out of view.
-
-### School Yard (Sub-Area)
-
-**WIP**
 
 ## The Shorelines (Hidden Area)
 
