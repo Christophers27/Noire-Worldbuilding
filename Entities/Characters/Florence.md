@@ -25,5 +25,3 @@ While trapped in the nightmare, Florence had much time to think, and realized th
 ## Personality
 
 Florence is outgoing and cheerful, happy to help others, and dreams of setting out to be an adventurer. She embodies the stereotypical hero, a contrast to Nilo, the protagonist. Being one of the few who still holds on to her dreams, she is a Dreamer and is able to explore the Dream World. She is determined to know more about the Dream World, and why she is the only one who can see it. She also wants to bring her friend Nilo to the Dream World, so they could experience her adventures together.
-
-In 

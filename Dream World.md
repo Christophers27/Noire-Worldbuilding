@@ -2,15 +2,9 @@
 
 ## Summary
 
-The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
+The Dream World is the dreamscape of humanity, the dreams and nightmares of all given form. It is the place where you go when you sleep, and experience your dreams. Those who hold on to their dreams are able to explore the Dream World, and are called Dreamers. They wander the many layers of the Dream World, shaped by imagination and the collective unconscious of humanity. There Dreamers may find the Dream Folk, born from the dreams of humanity, and the Nightmares, born from the fears and anxieties of humanity.
 
-Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. A fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
-
-## Message
-
-A core message of the game is moving on from the past, and accepting change. The Dream World was once a wonderful place, now in ruins. Some of the creatures of the Dream World are still stuck in the past, unable to accept the change that has happened, and are still trying to live in the past. But only by accepting that the past is gone, and moving on, can they begin to rebuild a new home.
-
-This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in the past, their anxiety causing them to be consumed by their past mistakes and regrets, unable to move on until they accept that the past is gone, and that they can't change it. The Fellow Dreamer, likewise, is stuck in the past, being unable to move on from their falling out with Nilo, and is unable to accept that they can't change the past. Only by accepting that the past is gone, and moving on, can they both begin to heal and rebuild their friendship.
+Once, the Dream World was a vibrant, living and breathing world, where the Dream Folk built their kingdoms and prospered. All of humanity was once able to walk the Dream World as Dreamers. However, as time passed, more and more people began to abandon their dreams for the demands of the real world, and were unable to Dream. With less and less Dreamers, the Dream World began to be forgotten and fade away. The fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The Dream Folk were consumed by the fog, twisted, changed or disappeared. Their kingdoms fell into ruin as the Nightmares began to overrun the Dream World. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
 
 ## Dreamers
 
@@ -22,4 +16,12 @@ The rare few who still Dream, able to stay lucid in their dreams and explore the
 
 The Dream World was born from humanity's knowledge and imagination, and it will fade away by the lack of it. The fog is the lack of knowledge and imagination, an emptiness that changes, distorts, and erases memories and dreams. It is a natural force that changes and erases, but it makes way for new things to be born.
 
-The fog is, in a way, the main antagonist of the game. It is the force that has caused the collapse of the Dream World, and is the reason why many enemies of the game exist. The fog exerts a strange, magnetic pull towards people, presenting an alluring temptation to simply give up, forget their worries, and let the fog take them.
+The fog is , in a way, the main antagonist of the game. It is the cause of the collapse of the Dream World, exerting a strange magnetic pull towards people, presenting an alluring temptation to simply give up, forget everything, and let the fog take them.
+
+## The Dream Folk (Name Pending)
+
+They are one of the two main inhabitants of the Dream World, created by fragments of the dreams people have. They built their kingdoms and prospered, but humanity began to abandon their dreams and forget the Dream World, and the fog encroached their kingdoms, changing them, or worse, making them disappear.
+
+## The Nightmares
+
+The other main inhabitants of the Dream World, born from the fears and anxieties of humanity. At first, the kingdoms of the Dream Folk were able to keep them at bay, but as the Dream Folk were consumed by the fog, they were unable to withstand the Nightmares, and the Nightmares began to overrun the Dream World.
