@@ -1,4 +1,4 @@
-## Bedrock Plains
+# Bedrock Plains
 
 A small area in the edge of Nilo's island of consciousness. The walls and floor of Nilo's bedroom, drawn from their memories, lie strewn about the area. It serves as a hub area where some NPCs can be found as the player progresses through the game.
 

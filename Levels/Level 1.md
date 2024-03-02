@@ -57,17 +57,6 @@ The player can also use a grappling hook, found later in the game, to explore re
   - The Svartskogen will then move out of the way, and the player can progress to the next area, the School House.
   - The Svartskogen will disappear once out of view, and can later be found in the hub area, the Bedrock Plains.
 
-### Shadow Cave
-
-A strangely dark cave pokes into the cliffside, and a shadowy enemy hides in the darkness. The player is unable to see in the cave, and a light is needed to explore it.
-
----
-
-- The enemy is a shadow-type enemy, unable to be damaged by the umbrella. A light-based weapon is required to defeat it.
-- The player might be able to explore a small part of the cave, but they cannot see in the darkness.
-  - Some light source is needed to see in the cave.
-- The cave is an optional side area, filled with lore and items.
-
 ### Clifftop
 
 A hidden area at the top of the cliffs, accessible by using a grappling hook to parkour up the cliff houses. A beautiful view of the island and the sea can be seen from here, and the player can find a hidden item.
@@ -78,6 +67,24 @@ A hidden area at the top of the cliffs, accessible by using a grappling hook to 
   - Dev Note: Maybe put the grappling hook in level 3? I'm not sure about the implementation of making the map visible from here. Is this possible?
 
 ## Schoolyard
+
+An old gate, intricate patterns swirling about the iron, blocks the way to the school yard, a gap bent in the bars. Past the gate, a path leads through a copse of trees, to a playground with an old, hunched-over tree set in the middle. The School House looms over the yard, just beyond the playground, and the Shadow Cave lies at the edge of the yard, set into the cliffside.
+
+---
+
+- The Elite Lanternfly can be found here, hiding atop the lamp posts and in the trees.
+- The area is meant to evoke a sense of nostalgia, the carefree days of childhood, and is blanketed in warm hues.
+
+### Shadow Cave
+
+A strangely dark cave pokes into the cliffside, and a shadowy enemy hides in the darkness. The player is unable to see in the cave, and a light is needed to explore it.
+
+---
+
+- The enemy is a shadow-type enemy, unable to be damaged by the umbrella. A light-based weapon is required to defeat it.
+- The player might be able to explore a small part of the cave, but they cannot see in the darkness.
+  - Some light source is needed to see in the cave.
+- The cave is an optional side area, filled with lore and items.
 
 ### Schoolhouse
 
