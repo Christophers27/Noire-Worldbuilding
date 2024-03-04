@@ -68,7 +68,7 @@ A hidden area at the top of the cliffs, accessible by using a grappling hook to 
 
 ## Schoolyard
 
-An old gate, intricate patterns swirling about the iron, blocks the way to the school yard, a gap bent in the bars. Past the gate, a path leads through a copse of trees, to a playground with an old, hunched-over tree set in the middle. The School House looms over the yard, just beyond the playground, and the Shadow Cave lies at the edge of the yard, set into the cliffside.
+An old gate, intricate patterns swirling about the iron, blocks the way to the school yard, a gap bent in the bars. Past the gate, a path leads through a copse of trees, to a playground with an old, hunched-over tree set in the middle. The School House looms over the yard, just beyond the playground, and the Shadow Cave lies at the edge of the yard, set into the cliffside. Atop the schoolhouse sits a metal bird, rotating as the wind blows. Somehow, even when facing away, it feels as though the bird maintains a steady watch over the yard.
 
 ---
 
@@ -84,7 +84,7 @@ A strangely dark cave pokes into the cliffside, and a shadowy enemy hides in the
 - The enemy is a shadow-type enemy, unable to be damaged by the umbrella. A light-based weapon is required to defeat it.
 - The player might be able to explore a small part of the cave, but they cannot see in the darkness.
   - Some light source is needed to see in the cave.
-- The cave is an optional side area, filled with lore and items.
+- The cave is an optional side area, filled with lore and items. Nearly impossible to explore without a light source, it is encouraged the player does not enter upon first encounter.
 
 ### Schoolhouse
 
