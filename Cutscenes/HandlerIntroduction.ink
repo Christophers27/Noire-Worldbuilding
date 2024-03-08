@@ -1,4 +1,6 @@
-The strange cloaked figure stood in the distance, their masked gaze piercing into you. 'Could they be dangerous? If this is a dream, then ... it shouldn't be a problem, right? But what if this is real, or it's a dream and I'll experience pain, or I ...'
+The strange cloaked figure stood in the distance, their masked gaze piercing into you. 
+
+'Could they be dangerous? If this is a dream, then ... it shouldn't be a problem, right? But what if this is real, or it's a dream and I'll experience pain, or I ...'
 
 Cold spikes of anxiety pierce your spine, and you remain rooted where you are.
 
