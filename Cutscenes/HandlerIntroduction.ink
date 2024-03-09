@@ -4,7 +4,7 @@ The strange cloaked figure stood in the distance, their masked gaze piercing int
 
 Cold spikes of anxiety pierce your spine, and you remain rooted where you are.
 
-"Heheh, come on closer now, don't be shy," the cloaked figure chuckled.
+"Heheh, come on closer now, don't be shy."
 
 * [Step forward] You hesitantly take a step forward. -> question
 
@@ -13,24 +13,30 @@ Cold spikes of anxiety pierce your spine, and you remain rooted where you are.
 * [Don't say a thing] -> stayed_silent
 
 === asked_where_you_are ===
-"Why, you're in the Land of Dreams, boy, though it's gotten a little lonely as of late," they said with a hint of wistfulness. -> giving_umbrella
+"Why, you're in the Land of Dreams, boy, though it's gotten a little ... lonely as of late."
+-> giving_umbrella
 
 === stayed_silent ===
-"A bit quiet are we? Not excited to be in the Land of Dreams? It's not every day that you see a Dreamer come along," they said. -> giving_umbrella
+"A bit quiet are we? Not excited to be in the Land of Dreams? It's not every day that you see a Dreamer come along." 
+-> giving_umbrella
 
 === giving_umbrella ===
-"Here, take this. There might be rainy days up ahead," they said, holding out an umbrella towards you. 
+Here, take this. There might be rainy days up ahead." They hold out an umbrella towards you.
 
-You could almost feel the smirk at the terrible pun in their words. Bewildered, you slowly reach out and take it. A quick look-over shows that there are strange runes carved into the handle.
+You could almost feel the smirk at the terrible pun in their words. Bewildered, you slowly reach out and take it. 
+
+'Huh, these are some strange carvings to be on an umbrella. It won't explode in my hands or something, right? I hope not ...'
 
 * [Ask what happens now] -> asked_what_happens_now
 * [Thank him] -> thanked_him
 
 === asked_what_happens_now ===
-"Heh, just follow the path now. Simple, right?" -> disappears
+"Heh, just follow the path now. Simple, right?" 
+-> disappears
 
 === thanked_him ===
-"Well, aren't you a polite young fellow. Now, just follow the path. Off you go!" -> disappears
+"Well, aren't you a polite young fella. Now, just follow the path. Off you go!" 
+-> disappears
 
 === disappears ===
 He nods at you, and before you could ask more, he turns into a liquid-like shadowy substance, and fades into wisps of black fog. You jump back in fright.
