@@ -124,7 +124,7 @@ The Svartskogen, an NPC made from the memory of Nilo's childhood toy, can be fou
 There are also several side areas, unreachable until certain abilities or items are obtained:
 
 - (Name TBD): Unlocked by a super dash ability, allowing the player to cross a large gap. Area description to be determined.
-- (Name TBD): A dark cave in the side of Solura Cliffs, blocked by a shadowy monster. The monster can only be defeated by a light-based weapon, which can be found in a later level.
+- (Name TBD): A dark cave in the side of Solura Cliffs, blocked by a shadowy monster. The monster can only be defeated with the Lantern, which can be found in Level 2.
 - (Name TBD): The top of the Solura Cliffs, needing a grappling hook to pull an unreachable platform closer to the player to access.
 - (Name TBD): A small area, where an elevator shaft can be found. The elevator is unlocked in Level 2, and allows fast travel between the two levels.
 - Shorelines: A secret area, only accessible with some key item (TBD). A small, peaceful beach, where the the island river turns into a waterfall. A small, hidden cave can be found here, with a secret item inside.
@@ -136,7 +136,7 @@ This area represents Nilo's college years. A large, pristine, and tidy universit
 The level is divided into several areas:
 
 - Entrance Hall: The entrance of the university, with a large, grand staircase leading up to the second floor. Many doorways and hallways create a maze-like structure.
-- Dark Maze: The dark, dilapidated hallways of the university, with many locked doors and blocked paths. The player must find a way to unlock the doors and unblock the paths to progress. A light-based weapon can be found here, allowing the player to fight shadow-based enemies and unlocking dark areas.
+- Dark Maze: The dark, dilapidated hallways of the university, with many locked doors and blocked paths. The player must find a way to unlock the doors and unblock the paths to progress. The Lantern can be crafted here, allowing the player to fight shadow-based enemies and unlocking dark areas.
 - Library: A large library, with many bookshelves and tables. A puzzle involving moving bookshelves to create a path to the next area.
 - Counselor's Office: A small, dark room, with a desk and a chair. Here, Nilo is presented with two terrible choices, and must learn that sometimes, they must make their own choices. The office and preceeding hallway is an infinite loop, and only by making their own path can they escape.
 

@@ -18,7 +18,9 @@ Meanwhile, Nilo, having cooled down, realized how much they had hurt Florence, w
 
 ### College
 
-Years later, Nilo went to college, thinking to have a fresh start. They decided to go for a field they thought was interesting and that they were passionate about, but over time, began to feel overwhelmed by the pressure of college, and doubted their choice to major in that field. Feeling lost, they looked to their counselor for guidance, but the counselor could only present them with two undesirable options. Though no fault of the counselor, Nilo felt betrayed with the lack of help, and eventually dropped out of college, feeling worse than ever.
+Years later, Nilo, whose anxiety and depression had begun to improve, went to college, hoping to have a fresh start. Hastily, they chose a field they thought was interesting and that they would enjoy. However, as classes went on, they quickly discovered that they were not as passionate about the field as they had thought, the classes feeling overwhelmingly difficult and uninteresting. They had a sinking feeling that they had made a mistake, but desperate to make their fresh start work, they pushed on, hoping that things would get better.
+
+However, as time went on, Nilo began to feel more and more lost, pressured by the many choices college and life presented them with, especially with their anxiety. They looked to their counselor for help, expecting him to solve their problems for them, accustomed to depending on Florence to do so. However, the counselor could only present them with two solutions they felt were undesirable, and Nilo felt betrayed by the lack of help. Though unjustified, they blamed the counselor for their problems, and eventually dropped out of college, feeling worse than ever.
 
 ### Present
 

@@ -6,8 +6,6 @@ The scene of Nilo's bedroom shows its messy state, with clothes and other items 
 
 (Tentative): A small blocked off corner of the area could be a fast travel point to Level 3 or further areas, unlocked after clearing those levels.
 
-(Tentative): If some sort of crafting/item management system is added to the game, maybe we can put workstations here?
-
 ---
 
 - Nilo, the player character, wakes up in the Bedrock Plains, in the First Layer of the Dream World.
