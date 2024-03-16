@@ -13,28 +13,28 @@ The bridge from Solura Path leads to a long, winding staircase, descending into 
 
 ## Entrance Hall
 
-Inside, the hall is large and open, with carpeted floors and high ceilings. A grand staircase leads to the second floor, though the door at the top is locked. Past the staircase is the hallway leading to the Library. The hallway is initially orderly and symmetrical, full of natural light, though as the area transitions to the Library, it will begin to twist and turn, have dead ends, making the player go through various rooms with many doors to go forward. This reflects Nilo having to make uncertain choices and feeling more and more lost as they progress through the university.
+Inside, the hall is large and open, with carpeted floors and high ceilings. A grand staircase leads to the second floor, though the door at the top is locked. Past the staircase is the hallway leading to the Collapsed Library. The hallway is initially orderly and symmetrical, full of natural light, though as the area transitions to the Library, it will begin to twist and turn, have dead ends, making the player go through various rooms with many doors to go forward. This reflects Nilo having to make uncertain choices and feeling more and more lost as they progress through the university.
 
 ---
 
-- The door at the top of the staircase, which leads to the rooms of the second floor, is locked. The player will return here after escaping the Dark Maze, and will lead to the Counselor's Office.
-- In the progression to the Library, the player will reach many points where they will have to choose between several doors or paths, and cannot turn back, the doors being locked behind them.
+- The door at the top of the staircase, which leads to the rooms of the second floor, is locked. The player will return here after escaping the Burned Maze, and will lead to the Counselor's Office.
+- In the progression to the Collapsed Library, the player will reach many points where they will have to choose between several doors or paths, and cannot turn back, the doors being locked behind them.
   - This reflects Nilo having to make uncertain choices as they progress through the university.
 - The architecture will become darker, more dilapidated and asymmetrical, with twists and turns, as the player progresses to the Library.
 
-## Library
+## Collapsed Library
 
 After travelling through a convoluted path of hallways and rooms, a door will open up into the large, open space of the Library, towering bookshelves and tables filling the room. As the player progresses, they will meet various students, who talk about how enjoyable they find their studies, and how they are looking forward to their future, and Nilo will reveal his own regrets about his choices (to major in something he turned out not to like, and to push on with it instead of changing).
 
 As the player progresses, the students will become more and more twisted and distorted, and soon, the room will begin to collapse behind them, forcing them to run to the exit. The room will gradually become smaller and more claustrophobic, representing Nilo's feelings of being trapped and unable to escape his situation at the time. The room, collapsing, will have gaps on the floor, and the player will have to do parkour with the dash ability. The students at some point will become eyeball enemies, making the parkour more difficult.
 
-Finally, at the end of the room is a staircase leading down to the Dark Maze.
+Finally, at the end of the room is a staircase leading down to the Burned Maze.
 
 ---
 
 - The purpose of this area is to reveal Nilo's backstory and his regrets about his choices, and to show his feelings of being trapped and unable to escape his situation at the time.
 
-## Dark Maze
+## Burned Maze
 
 After descending the staircase, it will collapse behind the player, trapping them in the dimly lit, dilapidated hallways of the university. The winding hallways feature many doors, locked and unlocked, which open up to rooms with doors leading to more rooms and hallways. The maze is dimly lit, with flickering or broken lights, and the walls and rooms are dilapidated and run-down. This reflects the height of Nilo's negative feelings during his time at the university, and the feeling of being lost and unable to escape his situation.
 
@@ -54,7 +54,7 @@ The player can now stun shadow-type enemies with the Lantern, making them vulner
 
 ## Counselor's Office
 
-After escaping the Dark Maze, the player will return to the entrance hall, and the door at the top of the staircase can now be unlocked. The player can now access the second floor, and the door at the end of the hallway will lead to the Counselor's Office.
+After escaping the Burned Maze, the player will return to the entrance hall, and the door at the top of the staircase can now be unlocked. The player can now access the second floor, and the door at the end of the hallway will lead to the Counselor's Office.
 
 This is a small, dark room, with a desk and a chair. Here, Nilo is confronted by the Counselor, who once more presents him with the choices he was offered in the real world past, both of which are unsatisfactory. The answer is to make his own solution, which is to not choose either of the options, exit the dialogue with the Counselor, take the key which is on the desk, and leave the room through the door at the back, leading out to the end of the level.
 

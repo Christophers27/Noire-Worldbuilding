@@ -3,64 +3,67 @@
 ## Table of Contents
 
 - [Noire Game Design Document](#noire-game-design-document)
-  - [Table of Contents](#table-of-contents)
-  - [Summary](#summary)
-  - [Story](#story)
-  - [Characters](#characters)
-    - [Nilo](#nilo)
-    - [Florence](#florence)
-    - [Svartskogen](#svartskogen)
-    - [The Handler](#the-handler)
-  - [Enemies](#enemies)
-    - [Lantern Fly](#lantern-fly)
-    - [Eyeball](#eyeball)
-    - [Bat](#bat)
-    - [Feral Cat](#feral-cat)
-    - [Thorny Plant](#thorny-plant)
-  - [Setting](#setting)
-  - [Message](#message)
-  - [Levels](#levels)
-    - [Level 1: Solura Valley](#level-1-solura-valley)
-    - [Level 2: University Ruins](#level-2-university-ruins)
-  - [Gameplay](#gameplay)
-    - [Dream State Mechanic](#dream-state-mechanic)
-  - [Art](#art)
-  - [Sound and Music](#sound-and-music)
-  - [UI and Controls](#ui-and-controls)
+	- [Table of Contents](#table-of-contents)
+	- [Summary](#summary)
+	- [Story](#story)
+	- [Characters](#characters)
+		- [Nilo](#nilo)
+		- [Florence](#florence)
+		- [Svartskogen](#svartskogen)
+		- [The Handler](#the-handler)
+	- [Enemies](#enemies)
+		- [Lantern Fly](#lantern-fly)
+		- [Eyeball](#eyeball)
+		- [Origami Bat](#origami-bat)
+		- [Feral Cat](#feral-cat)
+		- [Thorny Plant](#thorny-plant)
+	- [Setting](#setting)
+	- [Levels](#levels)
+		- [Level 1: Solura Valley](#level-1-solura-valley)
+		- [Level 2: University Ruins](#level-2-university-ruins)
+	- [Gameplay](#gameplay)
+	- [Art](#art)
+	- [Sound and Music](#sound-and-music)
+	- [UI and Controls](#ui-and-controls)
+
 
 ## Summary
 
-_Noire_ is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, who was taken to the Dream World and find their mysterious friend, Florence, the Fellow Dreamer, somewhere in the depths of the Dream World. It's a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to overcome their fears and face their past, growing as a person, before they can find Florence.
+*Noire* is a 3D indie RPG, where you play as Nilo, a Dreamer with a troubled past, waking up in the Dream World and seeking to find and rescue their friend, Florence, the Fellow Dreamer, somewhere in its depths. This is a story-heavy game with a focus on exploration and combat, set in a surreal, dream-like world. Throughout the game, Nilo will have to face the mistakes of the past, whether theirs or others, and grow as a character.
 
 ## Story
 
-Nilo is a young adult, who has been struggling with anxiety, and later depression, for a long time. They had a hard time connecting with others, with only Florence approaching and befriending them in their early childhood.
+Nilo is a young adult, struggling with anxiety, who had trouble connecting with others. Their only friend was Florence, a cheerful, outgoing girl, who approached and befriended them in their childhood.
 
-Florence was a very energetic and outgoing person, who always stuck with Nilo and tried to help them overcome their issues. She dreamed of becoming a famous adventurer, and later discovered that she had the ability to stay lucid in her dreams, allowing her to explore the Dream World. She would often tell Nilo about her adventures in the Dream World, and Nilo would listen with great interest, though they didn't quite believe that the Dream World was real.
+Florence had a strange ability to always stay lucid when she slept, and exploring her dreams led her to discover the vast, mysterious Dream World. Having dreamed of becoming an adventurer, she was elated at the discovery, and sought to explore the depths of the Dream World. 
 
-Over time, Nilo and Florence grew apart, as Florence became more invested in her adventures, and also frustrated with Nilo's lack of progress in overcoming their anxiety despite her efforts to help them. Nilo, on the other hand, felt she was becoming more distant and was worried that she would leave them behind. The unresolved tension and lack of communication between them eventually led to a falling out, causing Nilo to become more withdrawn and Florence to turn to the Dream World to escape her problems.
+Excitedly sharing her discovery with others, she found that no one else seemed to know about the Dream World or believe her, dismissing her tales as made-up stories or the vivid imagination and dreams of a child, all except for Nilo. Nilo was fascinated by her stories and happy to have a friend, and Florence was excited to have someone who believed her, and so the two quickly became close friends.
 
-Florence, distracted by the falling out, made a mistake while adventuring, and was trapped by a Nightmare in the lower layers of the Dream World. In the real world, she fell into a coma, unable to wake up. Nilo, having heard about the coma, researched many ways to help someone wake up from a coma, but to no avail. Eventually, they gave up, and moved on with their life, though they felt guilty and regretful about the falling out.
+Florence, ever ready to help someone, noticed Nilo struggling with anxiety and was happy to help take the lead when Nilo couldn't speak up. But as they grew up, she realized that her attempts to help Nilo was only stifling Nilo's growth. She tried to gradually let Nilo handle things on his own, but Nilo mistook this as Florence being frustrated at their lack of improvement and trying to distance herself from them. 
 
-Many years later, Nilo, now a young adult, is struggling with depression, and has been having strange dreams. One night, they wake up in the Dream World, having been pulled in by Florence, who is still trapped in the Dream World. They find a note, left by Florence, telling them where they are, and that she is stuck in the lower layers. Nilo suspects that the writer of the note is their old friend, but doesn't get their hopes up.
+Nilo took this very hard, feeling abandoned, and their anxiety only worsened. This culminated in a confrontation with Florence, where they accidentally lashed out at her, telling her that she was leaving them for her make-believe world. Florence was hurt and betrayed, as Nilo was the only one to have believed her about the Dream World, and stormed off.
 
-Nilo sets out to explore the Dream World, hoping deep down that they will find her, and that they can make up for their past mistakes. Throughout their journey, they will have to face various enemies, which represent Nilo's fears and regrets, and overcome them, growing as a person through the process.
+Florence, feeling angry and hurt, went to the Dream World to escape from the confrontation. Unfortunately, her distracted state led her to be defeated by a Nightmare in the Dream World, trapping her there and falling into a coma in the real world.
+
+Meanwhile, Nilo, having cooled down, realized their mistake, and went to apologize, only to find her in her comatose state. It was a devastating discovery, and Nilo was filled with guilt, believing to have caused this to happen somehow. Years passed, and Nilo lost hope that she would ever wake up, regretting that they could not make amends with Florence, leading to their anxiety worsening, and feeling depressed.
+
+Many years later, Nilo, now a young adult, mysteriously wakes up in the Dream World after falling asleep, and soon realizes where they are, finds out what happened to Florence, and sets out on a quest to find and rescue her.
 
 ## Characters
 
 ### Nilo
 
-Nilo is the player character, a young adult with a troubled past, who has been struggling with anxiety and depression for a long time. Their personality is somewhat shy and reserved, leading them to have few friends throughout their life.
+Nilo is a shy and anxious young adult, filled with regret from their many past mistakes. As the player character, Nilo will journey across the Dream World, facing the mistakes of their past, resolve their regrets, and grow as a person.
 
-Their appearance and gender are purposefully kept vague, so anyone can relate to them. They are a silent protagonist, and their personality is mostly revealed through the journal entries they write throughout the game.
+Many details are kept vague about them, so anyone can better related to them.
 
 ### Florence
 
-Florence is a energetic and cheerful girl, the only friend of Nilo in their early childhood. She has grand dreams of becoming an adventurer and exploring unknown lands, and is very passionate about it. She is also very caring and tries to help Nilo overcome their anxiety, though she is not very good at it.
-
-At a young age, she discovered that she could stay lucid in her dreams, and discovered the Dream World. So far, no one else she knew could do the same, so she kept it a secret to everyone but Nilo.
+Florence is Nilo's childhood friend, and seems to be the only one who can explore the Dream World. She is a cheerful, outgoing girl with a penchant for helping others and a dream for adventure. Despite no one else believing her, she is determined to find the truth about the mysterious Dream World only she can see. 
 
 ### Svartskogen
+
+A giant, talking stuffed bear, that was Nilo's childhood toy in the real world. A gift from Florence, it was a source of comfort to Nilo as a child. In the Dream World, it once more provides comfort as it cheers Nilo on and takes care of the Bedrock Plains.
 
 ### The Handler
 
@@ -72,81 +75,64 @@ He once traveled with Florence for a time, having been a friend of hers before s
 
 ### Lantern Fly
 
-A literal 'lantern' fly. Represents Nilo's fear of bugs. A minor fear that they can easily overcome.
-
-Does melee attacks only. Weak, but can be dangerous in groups.
-
-**Moves**:
-
-- Claw Attack: The lanternfly attacks with its claws. Short range melee attack.
+A large fly with a lantern as its body, representing Nilo's fear of bugs. It is a minor fear that they overcome early, on, indicated in Nilo's remarks in the journal entry. Multiple versions can be found in various levels.
 
 ### Eyeball
 
-A floating eyeball. Represents Nilo's anxiety. A major issue in their life, and a stronger enemy. Stronger versions of this enemy can be found in many proceeding levels in the game.
+A floating eyeball, representing the (perceived) stares of judgement that Nilo is anxious about. It is a major issue in their life, and a more difficult enemy. Only after a while do they overcome this issue, indicated Nilo's remarks in the journal entry. Multiple versions can be found in various levels.
 
-Does ranged attacks (eye laser). Bit hard to dodge, later versions might have shorter warning before attacking, attacking faster, melee attacks, and so on.
+### Origami Bat
 
-**Moves**:
-
-- Eye Laser: The eyeball shoots a laser. The eyeball flashes before doing so, and will stop moving a moment before it attacks.
-
-### Bat
+An intricately folded origami bat, with glowing red eyes. It hides in the rafters and dark corners of the Schoolhouse (Level 1). It represents the bullying Nilo received in school, which wasn't the worst, but was still impactful.
 
 ### Feral Cat
+
+A small, unsettling, and vicious cat, staying still until seen, where it will attack at shocking speed. 
 
 ### Thorny Plant
 
 ## Setting
 
-The Dream World is a mysterious realm that connects all humans together, created by the collective unconscious of humanity. When people fall asleep, they enter the First Layer of the Dream World, at their mind's island, which is shaped by their subconscious mind. Usually, people are not lucid when they enter the Dream World, and stay in their island to experience their dreams. However, there are a few who are able to remain conscious and aware of their surroundings, called Dreamers. They are able to leave their island and explore the foggy sea of the collective unconscious that surrounds it, roaming the many layers of the Dream World.
+The Dream World is the dreamscape of humanity, the dreams and nightmares of all given form. It is the place where you go when you sleep, and experience your dreams. Those who hold on to their dreams are able to explore the Dream World, and are called Dreamers. They wander the many layers of the Dream World, shaped by imagination and the collective unconscious of humanity. There Dreamers may find the Dream Folk, born from the dreams of humanity, and the Nightmares, born from the fears and anxieties of humanity.
 
-Long ago, the Dream World was a vibrant, living and breathing world, full of creatures born from imagination and the kingdoms they built. All of humanity was once able to truly Dream, and walk the Dream World as Dreamers. However, as humanity grew and developed, new technologies and ways of life arose, and old ways were forgotten. Humanity chose to focus on the Waking World, and slowly, the Dream World was forgotten. The Dream World began to fade and crumble, as it faded from humanity's collective memory. A fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The creatures of the Dream World disappeared or changed, and only ruins of the past remained. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
-
-## Message
-
-A core message of the game is moving on from the past, and accepting change. The Dream World was once a wonderful place, now in ruins. Some of the creatures of the Dream World are still stuck in the past, unable to accept the change that has happened, and are still trying to live in the past. But only by accepting that the past is gone, and moving on, can they begin to rebuild a new home.
-
-This is also reflected in Nilo and the Fellow Dreamer's story. Nilo is stuck in the past, their anxiety causing them to be consumed by their past mistakes and regrets, unable to move on until they accept that the past is gone, and that they can't change it. The Fellow Dreamer, likewise, is stuck in the past, being unable to move on from their falling out with Nilo, and is unable to accept that they can't change the past. Only by accepting that the past is gone, and moving on, can they both begin to heal and rebuild their friendship.
+Once, the Dream World was a vibrant, living and breathing world, where the Dream Folk built their kingdoms and prospered. All of humanity was once able to walk the Dream World as Dreamers. However, as time passed, more and more people began to abandon their dreams for the demands of the real world, and were unable to Dream. With less and less Dreamers, the Dream World began to be forgotten and fade away. The fog began to spread across the Dream World, like an old memory becomes foggy and details are distorted or forgotten. The Dream Folk were consumed by the fog, twisted, changed or disappeared. Their kingdoms fell into ruin as the Nightmares began to overrun the Dream World. Fewer and fewer people were able to Dream, and the Dream World became a lonely, empty place.
 
 ## Levels
 
 ### Level 1: Solura Valley
 
-This area represents Nilo's childhood, Nilo's island of consciousness in the Dream World. It has a melancholic, nostalgic feel to it.
+Nilo's island of consciousness, floating in a sea of fog. Themed after Nilo's childhood, it has a nostalgic, yet melancholic feel to it.
 
 The Svartskogen, an NPC made from the memory of Nilo's childhood toy, can be found here, as well as a scene from Nilo's childhood. There are four initial areas:
 
-- Bedrock Plains: A small area in the edge of Nilo's island of consciousness. The walls and floor of Nilo's bedroom, drawn from their memories, lie strewn about the area. It serves as a hub area where some NPCs and maybe work stations can be found as the player progresses through the game.
-- Solura Path: A cobblestone path leading down a grassy valley. Stone ruins half-buried in the ground litter the landscape.
+- Bedrock Plains: A small area in the edge of Nilo's island of consciousness. The walls and floor of Nilo's bedroom, drawn from their memories, lie strewn about the area. It serves as a hub area where some NPCs can be found as the player progresses through the game.
+- Solura Path: A cobblestone path leading up to a grassy valley. Stone ruins half-buried in the ground litter the landscape.
 - Solura Cliffs: Across the valley is a cliff, houses built into its sides. In the houses, scenes from Nilo's childhood can be seen.
 - School House: A twisted version of Nilo's middle school, dredged from unpleasant memories, stands at the end of the valley. Dark hallways and unpleasant memories adorn the school. An unpleasant encounter lies inside.
 
 There are also several side areas, unreachable until certain abilities or items are obtained:
 
-- (Name TBD): Unlocked by a super dash ability, allowing the player to cross a large gap. Area description to be determined.
-- (Name TBD): A dark cave in the side of Solura Cliffs, blocked by a shadowy monster. The monster can only be defeated with the Lantern, which can be found in Level 2.
-- (Name TBD): The top of the Solura Cliffs, needing a grappling hook to pull an unreachable platform closer to the player to access.
+- The Bridge: A forlorn, broken bridge that descends down into the fog sea, leading to level 2. A dash ability is needed to cross the gap in the bridge.
+- Shadow Cave: A dark cave near the Schoolyard, blocked by a shadowy monster. The monster can only be defeated with the Lantern, which can be found in Level 2.
+- Clifftop: The top of the Solura Cliffs, needing a grappling hook to pull an unreachable platform closer to the player to access.
 - (Name TBD): A small area, where an elevator shaft can be found. The elevator is unlocked in Level 2, and allows fast travel between the two levels.
 - Shorelines: A secret area, only accessible with some key item (TBD). A small, peaceful beach, where the the island river turns into a waterfall. A small, hidden cave can be found here, with a secret item inside.
 
 ### Level 2: University Ruins
 
-This area represents Nilo's college years. A large, pristine, and tidy university building. The clean white halls inside, representing Nilo's desire to start anew and hopes for the future, slowly turn dilapidated and dark as the player progresses through the level, representing Nilo's growing uncertainty about their major and anxiety about the future.
+Below Solura Island, in the foggy sea of the Dream World, lies the University Ruins, the second level of the game. The theme of the level is college, and the areas are drawn from Nilo's memories and experiences from that time, though somewhat more distorted and abstract than the first level. Deeper in the Dream World, the surroundings are no longer drawn from just Nilo's memories.
 
 The level is divided into several areas:
 
-- Entrance Hall: The entrance of the university, with a large, grand staircase leading up to the second floor. Many doorways and hallways create a maze-like structure.
-- Dark Maze: The dark, dilapidated hallways of the university, with many locked doors and blocked paths. The player must find a way to unlock the doors and unblock the paths to progress. The Lantern can be crafted here, allowing the player to fight shadow-based enemies and unlocking dark areas.
-- Library: A large library, with many bookshelves and tables. A puzzle involving moving bookshelves to create a path to the next area.
-- Counselor's Office: A small, dark room, with a desk and a chair. Here, Nilo is presented with two terrible choices, and must learn that sometimes, they must make their own choices. The office and preceeding hallway is an infinite loop, and only by making their own path can they escape.
+- University Grounds: The only open area in the level, right in front of the Entrance Hall. Here, Nilo will face a scripted boss fight with the Counselor
+- Entrance Hall: A large, well-decorated and tidy entrance hall. A hub area, leading to the Collapsed Library, Dark Maze, and Counselor's Office. Well-lit and organized, like Nilo's initial outlook on university
+- Collapsed Library: A convoluted path of hallways and room leads to the library, initially a large open space, but growing smaller and more claustrophobic as Nilo progresses. A parkour segment is here, where Nilo will have to run and parkour as the library collapses behind them. This section represents Nilo's collapsing mental state
+- Burned Maze: A maze of hallways and interconnected rooms, dimly lit and dilapidated. Various sections of the maze appear to have been burned in the past. The Lantern can be crafted here. This section represents Nilo's feeling of being lost and burnt out
+- Counselor's Office: The final area of the level, where Nilo faces off against the Counselor again and defeats him.
 
 ## Gameplay
 
 The gameplay of Noire is similar to the indie game Hades, with a fixed camera angle, attacking with a melee weapon, and dashing to avoid attacks.
-
-### Dream State Mechanic
-
-A core mechanic of the game is the Dream State mechanic. If the player dies while in the Deep Dreaming state, they will appear in their last save point again, but in the Lucid state. Now, they have less health, and have to kill the enemy that killed them to be in the Deep Dreaming state again. If they die again, the game ends.
 
 ## Art
 
